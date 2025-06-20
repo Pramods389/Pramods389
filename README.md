@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Pramod S</h1>
-<h3 align="Center">Working as a Business Analyst in IBM. I'm passionate about growing in my career, working on self-improvement, picking up new skills and learning them through handson projects. </h3>
+<h3 align="Center">Working as a Business Analyst in IBM. I'm passionate about growing in my career, working on self-improvement, picking up new skills and learning them through real-time projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramods389&label=Profile%20views&color=0e75b6&style=flat" alt="pramods389" /> </p>
 
-- 🔭 I’m currently working as an **Oracle Business Analytics in IBM**
-
-- 🌱  Currently building projects using **Python, Power BI, SQL** to showcase analytics capabilities
-
+- 🔭 I’m currently working as an **Oracle Business Analyst in IBM**
+- 🌱 Currently building projects using **SQL, Power BI, Python** to showcase analytics capabilities.
+- 🛠️ You can find the Projects I’m building or contributing to.
 - 📫 How to reach me **pramodgowda0798@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
