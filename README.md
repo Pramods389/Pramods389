@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod S</h1>
-<h3 align="center">Working as a passionate Data Analyst from India</h3>
+<h3 align="center">Working as a passionate Business Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramods389&label=Profile%20views&color=0e75b6&style=flat" alt="pramods389" /> </p>
 
