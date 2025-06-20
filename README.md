@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Pramod S</h1>
-<h3 align="Center">Working as a Business Analyst in IBM. I'm passionate about growing in my career, working on self-improvement, picking up new skills and learning them through real-time projects. </h3>
+## Hey there, I’m Pramod S
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramods389&label=Profile%20views&color=0e75b6&style=flat" alt="pramods389" /> </p>
+Working as a Business Analyst in IBM. I'm passionate about growing in my career, working on self-improvement, picking up new skills and learning them through real-time projects. 
 
-- 🔭 I’m currently working as an **Oracle Business Analyst in IBM**
-- 🌱 Currently building projects using **SQL, Power BI, Python** to showcase analytics capabilities.
+- 🔭 I’m currently working as an Oracle Business Analyst in IBM.
+- 🌱 Currently building projects using SQL, Power BI, Python to showcase analytics capabilities.
 - 🛠️ You can find the Projects I’m building or contributing to.
-- 📫 How to reach me **pramodgowda0798@gmail.com**
+- 📫 How to reach me pramodgowda0798@gmail.com.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pramod-gowda-3007a021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-gowda-3007a021b/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-gowda-3007a021b/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramods389&show_icons=true&locale=en&layout=compact" alt="pramods389" /></p>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+---
+#
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
