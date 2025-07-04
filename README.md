@@ -3,7 +3,7 @@
 Working as a Business Analyst in IBM. I'm passionate about growing in my career, working on self-improvement, picking up new skills and learning them through real-time projects. 
 
 - 🔭 I’m currently working as an Oracle Business Analyst in IBM.
-- 🌱 Currently building projects using SQL, Power BI, Python to showcase analytics capabilities.
+- 🌱 Currently building projects using SQL,Excel,Power BI,Python to showcase analytics capabilities.
 - 🛠️ You can find the Projects I’m building or contributing to.
 - 📫 How to reach me pramodgowda0798@gmail.com.
 
